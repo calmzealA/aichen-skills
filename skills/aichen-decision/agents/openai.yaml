@@ -1,0 +1,4 @@
+interface:
+  display_name: "老陈帮我选"
+  short_description: "帮你把上头、纠结和选择障碍拆成下一步。"
+  default_prompt: "老陈帮我选：我现在有一个选择很纠结，帮我用清醒、说人话的方式摊开看。"
