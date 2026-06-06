@@ -1,0 +1,4 @@
+interface:
+  display_name: "老陈讲明白"
+  short_description: "把 AI 术语、科技热点和复杂概念讲成人话。"
+  default_prompt: "老陈讲明白：MCP 到底是什么？用人话讲讲它和普通人有什么关系。"
